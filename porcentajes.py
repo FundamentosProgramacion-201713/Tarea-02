@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: Gerardo Arturo Valderrama Quiroz
+# Autor: Gerardo Arturo Valderrama Quiroz, A01374994
 # Descripcion: Dar el total de alumnos y el porcentaje de hombres y mujeres de acuerdo a los datos proporcionados por el usuario
 
 # A partir de aquí escribe tu programa
