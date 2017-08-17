@@ -1,7 +1,13 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Luis Miguel Baqueiro Vallejo, A01745997
+# Descripcion: Problema 3
 
-# A partir de aquí escribe tu programa
-
+comida = int(input("Precio de la comida: "))
+iva = comida * .16
+propina = comida * .12
+total = comida + iva + propina
+print("Subtotal: ", comida)
+print("Propina: ", propina)
+print("IVA: ", iva)
+print("Total: ", total)

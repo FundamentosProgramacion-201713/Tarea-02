@@ -1,7 +1,17 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Luis Miguel Baqueiro Vallejo, A01745997
+# Descripcion: Problema 2
 
-# A partir de aquí escribe tu programa
+velocidad = int(input("Velocidad: "))
+tiempo = 6
+distancia = velocidad * tiempo
+print ("Distancia recorrida en 6 hrs: ",distancia)
+tiempo = 10
+distancia = velocidad * tiempo
+print ("Distancia recorrida en 10 hrs: ",distancia)
+distancia = 500
+tiempo = distancia / velocidad
+print ("Tiempo para recorrer 500 KM: ",tiempo)
+
 
