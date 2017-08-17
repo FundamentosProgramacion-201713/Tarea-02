@@ -5,7 +5,7 @@
 
 # A partir de aquí escribe tu programa
 
-vel = input("Inserta una velocidad: ")
+vel = int(input("Inserta una velocidad: "))
 distancia6hr = vel*6
 distancia10hr = vel*10
 tiempo500km = 500/vel
