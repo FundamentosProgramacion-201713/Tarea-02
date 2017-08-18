@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Carlos Pano Hernandez, A01066264
+# Descripcion: Calculadora de porcentaje de hombres y mujeres en un salón.
 
 # A partir de aquí escribe tu programa
 
