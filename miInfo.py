@@ -5,4 +5,4 @@
 
 # A partir de aquí escribe tu programa
 
-print("Hola")   # borrar
+print("Hola que onda")   # borrar
