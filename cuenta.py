@@ -13,4 +13,4 @@ total= float(subtotal)+propina+iva
 print("Su subtotal es de $", subtotal)
 print("La propina es de $", propina)
 print("El IVA es de $", iva)
-
+print("Su Total es de $", total)
