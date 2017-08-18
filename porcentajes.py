@@ -12,4 +12,4 @@ mujerespor = int(nummujeres)*100/int(total)
 hombrespor = int(numhombres)*100/int(total)
 print("El total de alumnos inscritos es de: ", total)
 print("El porcentaje de mujeres inscritas es de: ", mujerespor,"%")
-
+print("El porcentaje de hombres inscritos es de: ", hombrespor,"%")
