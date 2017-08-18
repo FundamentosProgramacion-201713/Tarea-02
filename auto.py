@@ -11,4 +11,3 @@ distancia10hr = vel*10
 tiempo500km = 500/vel
 print("Tu distancia en 6 horas es de ", distancia6hr, " km")
 print("Tu distancia en 10 horas es de ", distancia10hr, " km")
-print("Tu tiempo al recorrer 500 kilometros es de ", tiempo500km, " horas")
