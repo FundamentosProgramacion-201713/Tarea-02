@@ -5,3 +5,4 @@
 
 # A partir de aquí escribe tu programa
 
+print("hola")
