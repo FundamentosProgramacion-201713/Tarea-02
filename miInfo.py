@@ -6,3 +6,4 @@
 # A partir de aquí escribe tu programa
 
 print("Hola")   # borrar
+print("Mónica Monserrat Palacios Rodríguez")
