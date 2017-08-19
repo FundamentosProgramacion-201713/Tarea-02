@@ -1,9 +1,17 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Saúl Rodrigo Toral Luna, #Matrícula: A01745007
+#Descripción: Mi información se vera reflejada en el programa
 
-# A partir de aquí escribe tu programa
-
-print("Hola")   # borrar
-print("Me llamo saul, mucho gusto")
+#1.-
+print("Nombre completo: ", "Saul Rodrigo Toral Luna")
+#2.-
+print("Matricula: ", "A01745007")
+#3.-
+print("Carrera: ", "Ingeniería en sistemas computacionales (ISC)")
+#4.-
+print("Escuela de procedencia: ", "Colegio Indoamericano")
+#5.-
+print("Descripción: ", "Soy una persona a la que le interesa la tecnologia y sus avcances,",
+      "Mi hobby es escuchar música y tambien mezclarla,",
+      "Mi sueño es laborar en una empresa de gran prestigio dedicada a la tecnología.")
