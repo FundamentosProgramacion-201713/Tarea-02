@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
 # Autor: Gerardo Arturo Valderrama Quiroz, A01374994
-# Descripcion: Dar El valor de r y del ángulo de acuerdo a las coordenadas proporcionadas por el usuario
+# Descripcion: Programa que convierte las coordenadass cartesianas a coordenadas polares
 
 # A partir de aquí escribe tu programa
 import math
