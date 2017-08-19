@@ -21,6 +21,6 @@ angulo = (anguloEnRadianes*180)/3.1416
 magnitud = ((valorX*valorX)+(valorY*valorY))**0.5
 
 #Imprimir resultados
-print ("---------------------")
+print ("----------------------")
 print ("Magnitud:", magnitud)
 print ("ángulo:", angulo)
