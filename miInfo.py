@@ -1,7 +1,11 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Javier Martínez Hernández, A01375496
+# Descripcion: Ingresar mis datos personales
 
-# A partir de aquí escribe tu programa
+print("Mi nombre completo es Javier Martínez Hernández", "\nMi matricula es A01375496", "\nEstoy estudiando ISC")
+print("Soy de prpa tec, programa Bicultural")
+print("""Me gusta la tecnologia en especial los videojuegos y la programación. 
+Soy muy activo fisicamente hablando. 
+Mi mayor habilidad es hacer amigos con mucha rapidez""")
 
