@@ -9,14 +9,14 @@ velocidad= input("Velocidad del auto en km/h: ")
 
 velocidad= float(velocidad)
 
-d=velocidad*6
+distancia=velocidad*6
 
-d2=velocidad*10
+distancia2=velocidad*10
 
-t=500/velocidad
+tiempo=500/velocidad
 
-print("Distancia recorrida en 6 horas:", d)
+print("Distancia recorrida en 6 horas:", distancia)
 
-print("Diastancia recorrida en 10 horas:", d2)
+print("Diastancia recorrida en 10 horas:", distancia2)
 
-print("Tiempo para recorrer 500km:", t)
+print("Tiempo para recorrer 500km:", tiempo)
