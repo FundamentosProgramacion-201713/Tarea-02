@@ -1,7 +1,19 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Omar Israel Galván García A01745810
+# Descripcion: Calcula el porcentaje de hombres y mujeres inscritos en una calse.
 
-# A partir de aquí escribe tu programa
+mujeres = int(input("Número de mujeres en la clase: "))
+hombres = int(input("Número de hombres en la calse: "))
+total = (hombres + mujeres)
+totalhombres = ((hombres*100)/total)
+totalmujeres = ((mujeres*100)/total)
+
+print("Numero total de alumnos inscritos: ",total)
+print("Porcentaje de mujeres: ",totalmujeres,"%")
+print("Porcentaje de hombres: ",totalhombres,"%"    )
+
+
+
+
 
