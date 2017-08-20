@@ -7,7 +7,7 @@
 comida=input("Costo de su comida: ")
 comida=int(comida)
 
-propina=comida * 0.12
+propina= comida * 0.12
 iva= comida * 0.16
 TotalAPagar= comida + propina + iva
 print("Propina: ", propina)
