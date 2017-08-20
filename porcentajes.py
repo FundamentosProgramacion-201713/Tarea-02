@@ -1,7 +1,12 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Javier Martínez Hernández
+# Descripcion: Se ingresaran el numero de alumnos, se sacara el total y el porcentaje de alumnos que son mujeres y hombres
 
-# A partir de aquí escribe tu programa
+mujeres=int(input("cuantas mujeres son: "))
+hombres=int(input("cuantos hombres son: "))
+total=mujeres+hombres
+pormuj=(mujeres*100)/total
+porhom=(hombres*100)/total
 
+print("Total de alumnos: ", total, "\nPorcentaje de mujeres:", pormuj,"%", "\nPorcentaje de hombres:", porhom,"%")
