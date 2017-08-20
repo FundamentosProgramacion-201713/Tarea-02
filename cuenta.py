@@ -1,7 +1,18 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Luis Enrique Neri Pérez, A01745995
+# Descripcion: Programa que muestre el subtotal, propina, IVA y total a pagar en un restaurante
 
-# A partir de aquí escribe tu programa
+print("CUENTA")
+
+subtotal= float(input("Ingrese el costo de su comida: "))
+
+propina = float(0.12 * subtotal)
+iva = float(0.16 * subtotal)
+total = subtotal + propina + iva
+
+print("Subtotal: $", subtotal )
+print("Propina: $", propina )
+print("IVA: $", iva )
+print("TOTAL: $", total)
 
