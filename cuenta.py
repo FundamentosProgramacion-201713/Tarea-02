@@ -7,7 +7,7 @@
 
 costo= input("Costo de la comida: ")
 
-costo= float(costo)
+costo= int(costo)
 
 propina= costo*0.12
 
