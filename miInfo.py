@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: Luis Fernando Figueroa Rendon
+# Autor: Luis Fernando Figueroa Rendon, A01746139
 # Descripcion: Dar a conocer algunos datos personales como nombre y gustos.
 
 # A partir de aquí escribe tu programa
