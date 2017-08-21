@@ -10,5 +10,5 @@ total = mujeres + hombres
 porcentajeMujeres = (mujeres * 100) / total
 porcentajeHombres = (hombres * 100) / total
 print ("Total de inscritos:", total)
-print ("Porcentaje de mujeres:", porcentajeMujeres)
-print ("Porcentaje de hombres:", porcentajeHombres)
+print ("Porcentaje de mujeres:", porcentajeMujeres, "%")
+print ("Porcentaje de hombres:", porcentajeHombres, "%")
