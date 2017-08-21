@@ -14,5 +14,6 @@ mag_final=(magn)**.5
 
 print("Magnitud:", mag_final)
 grados= math.atan2(y,x)
+grados1= math.degrees(grados)
 
-print ("°:", grados)
+print ("°:", grados1)
