@@ -6,7 +6,7 @@
 valor_x = float(input('Inserte el valor de "x": '))
 valor_y = float(input('Inserte el valor de "y": '))
 
-magnitud = ( (valor_x ** 2) + (valor_y ** 2) ) ** 0.5
+magnitud = ((valor_x ** 2) + (valor_y ** 2)) ** 0.5
 angulo = atan2(y/x)
 
 print ("x: ", valor_x, """
