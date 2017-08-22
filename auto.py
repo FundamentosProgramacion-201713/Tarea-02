@@ -1,7 +1,13 @@
-#encoding: UTF-8
+#
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Pablo García Morales, A01745530
+# Descripcion: Programa para calcular la velocidad de un auto.
 
-# A partir de aquí escribe tu programa
+v= int(input("a que velocidad va su auto la velocidad va su auto"))
 
+distancia1= v*6
+dinstancia2= v*10
+horasen500km= 500/v
+print(distancia1)
+print(dinstancia2)
+print(horasen500km)
