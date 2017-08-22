@@ -1,7 +1,15 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Genaro Ortiz Durán, A01375315
+# Descripcion: Calcular el costo de una comida ya incluyendo el IVA y la propina.
 
-# A partir de aquí escribe tu programa
+strA= input("¿Cual fue el costo de la comida?:")
+a= int(strA)
+
+Propina= a*.12
+IVA= a*.16
+
+Total=(a*.12)+(a*.16)+a
+print("El total de su consumo es:", Total)
+
 
