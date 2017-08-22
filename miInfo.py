@@ -6,8 +6,8 @@
 # A partir de aquí escribe tu programa
 print ("Mi info: ")
 
-print ("Juan Sebastián Lozano Derbez")
-print ("A01374452")
-print ("ISDR")
-print ("TecMilenio")
-print ("Me gusta la tecnología, la ciencia ficción, leer, las series y películas, la música (en especial la electrónica) y de vez en cuando juego videojuegos.")
+print ("Nombre: Juan Sebastián Lozano Derbez")
+print ("Matrícula: A01374452")
+print ("Carrera: ISDR")
+print ("Prepa de procedencia: TecMilenio")
+print ("Descripción: Me gusta la tecnología, la ciencia ficción, leer, las series y películas, la música (en especial la electrónica) y de vez en cuando juego videojuegos.")
