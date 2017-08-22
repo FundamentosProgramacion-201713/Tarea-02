@@ -7,20 +7,17 @@
 
 nombre_completo = "Angel Guillermo Ortiz Gonzalez"
 matricula = "A01745998"
-carrera = "Ingenieria en Sistemas Digitales y Robotica"
+carrera = "ISDR"
 prepa = "Tecmilenio Campus Cuautitlan"
-gustos = "caminar por las tardes, el olor de los libros nuevos y tocar la guitarra"
-habilidad = "andar en la bicicleta sin manos"
-deporte = "futbol"
-libro_preferido = '"La insoportable levedad del ser" de Milan Kundera'
-viaje = "la playa hace tres veranos"
+descripcion = 'Me gusta caminar por las tardes. Sé andar en la bicicleta sin manos. Uno de mis libros favoritos es "La insoportable levedad del ser" de Milan Kundera'
 
-print ("""Hola. 
-Me llamo:""", nombre_completo, """
-Estudio la carrera de: """, carrera, """
-Estudie en: """, prepa, """
-Me gusta """, gustos, """
-Una de mis habilidades es """, habilidad, """
-El deporte que practico es """, deporte, """
-Uno de mis libros favoritos es """, libro_preferido, """
-Mi último viaje fue a """, viaje)
+print ("""Nombre: 
+""", nombre_completo, """
+Matrícula:
+""", matricula, """
+Carrera: 
+""", carrera, """
+Escuela de procedencia: 
+""", prepa, """
+Descripción:
+""", descripcion)
