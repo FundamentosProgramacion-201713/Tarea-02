@@ -1,7 +1,14 @@
-#encoding: UTF-8
+#
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Pablo García Morales, A01745530
+# Descripcion: Queremos un programa para saber el porcentaje de mujeres y hombres de todos los estudiantes.
 
-# A partir de aquí escribe tu programa
+m=int(input("Numero de mujeres"))
+h=int(input("Numero de hombres"))
 
+Totalinscrito= m+h
+mujeresporcentaje= (m*100)/Totalinscrito
+hombresporcentaje= (h*100)/Totalinscrito
+print(Totalinscrito)
+print(mujeresporcentaje)
+print(hombresporcentaje)
