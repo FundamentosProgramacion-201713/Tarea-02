@@ -4,7 +4,7 @@
 # Descripcion: Mostrar mi info.
 
 # A partir de aquí escribe tu programa
-print ("Mi info:")
+print ("Mi info: ")
 
 print ("Juan Sebastián Lozano Derbez")
 print ("A01374452")
