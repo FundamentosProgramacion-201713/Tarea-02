@@ -4,8 +4,11 @@
 componentex = int(input("componente en x"))
 componentey = int(input("componente en y"))
 
+from math import atan2
+from math import pi
 magnitud = (componentex **2 + componentey **2) **.5
-angulo = atan2(componentey,componentex)
+angulorad = atan2(componentey,componentex)
 
+angulo = angulorad*180/pi
 print(magnitud)
 print(angulo)
