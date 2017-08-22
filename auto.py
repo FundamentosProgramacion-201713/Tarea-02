@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
 # Autor: Aaron Tonatiuh Villanueva Guzmán, A01375987
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Descripcion: Permite conocer la distancia que recorre un auto a una velocidad establecida en un periodo determinado así como el tiempo en el que recorre una distancia establecida.
 
 # A partir de aquí escribe tu programa
 velocidad=float(input("Ingrese la velocidad del auto en km/h"))
