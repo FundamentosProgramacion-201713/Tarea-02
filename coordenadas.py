@@ -1,4 +1,4 @@
-#Autor: Luis Alfonso Alcántara López Ortega
+#Autor: Luis Alfonso Alcántara López Ortega, A01374785
 from math import *
 
 x = float(input("x: "))
