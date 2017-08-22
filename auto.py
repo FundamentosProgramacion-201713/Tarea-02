@@ -12,6 +12,6 @@ tiempo_500_km = 500 / velocidad
 
 print("Velocidad del auto en km/h: ", velocidad, """
 Distancia recorrida en 6 hrs: """, distancia_6_hrs,"km", """
-Distancia recorrida en 10 hrs: """, distancia_10_hrs, "km", """"
+Distancia recorrida en 10 hrs: """, distancia_10_hrs, "km", """
 Tiempo para recorrer 500 km: """, tiempo_500_km, "hrs")
 

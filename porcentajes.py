@@ -14,6 +14,6 @@ porcentaje_hombres = 100 - porcentaje_mujeres
 
 print ("Mujeres inscritas: ", total_mujeres, """
 Hombres inscritos: """, total_hombres, """
-Total de inscritos: """, total_inscritos, """
+Total de inscritos: """, total_inscritos, "alumnos", """
 Porcentaje de mujeres: """, porcentaje_mujeres,"%", """
 Porcentaje de hombres: """, porcentaje_hombres,"%")
