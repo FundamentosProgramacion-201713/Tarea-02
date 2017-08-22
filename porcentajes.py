@@ -7,7 +7,9 @@
 mujeres = int(input("Mujeres inscritas: "))
 hombres = int(input("Hombres inscritos: "))
 total = mujeres + hombres
+porcentajeMujeres = round((mujeres / total)* 100, 1)
+porcentajeHombres = round((hombres / total)* 100, 1)
 
 print("Total de inscritos: ", total)
-print("Porcentaje de mujeres: ", round((mujeres / total)* 100, 1), "%", sep="")
-print("Porcentaje de hombres: ", round((hombres / total)* 100, 1), "%", sep="")
+print("Porcentaje de mujeres: ", porcentajeMujeres, "%", sep="")
+print("Porcentaje de hombres: ", porcentajeHombres, "%", sep="")
