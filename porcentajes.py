@@ -7,6 +7,7 @@
 mujeres = int(input("Mujeres inscritas: "))
 hombres = int(input("Hombres inscritos: "))
 total = mujeres + hombres
+
 porcentajeMujeres = round((mujeres / total)* 100, 1)
 porcentajeHombres = round((hombres / total)* 100, 1)
 
