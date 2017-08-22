@@ -11,5 +11,7 @@ Hombres=(2*(AlumnosInscritos/3))
 PorcentajeMujeres=((Mujeres*100)/AlumnosInscritos)
 PorcentajeHombres= ((Hombres*100/AlumnosInscritos))
 
+print("Número de Mujeres:", Mujeres)
+print("Número de Hombres:", Hombres)
 print("Porcentaje de Mujeres: ", PorcentajeMujeres, "%")
 print("Porcentaje de Hombres:", PorcentajeHombres, "%")
