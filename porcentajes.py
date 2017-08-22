@@ -4,4 +4,10 @@
 # Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
 
 # A partir de aquí escribe tu programa
-print ("LOL")
+mujeres = int(input("Mujeres inscritas: "))
+hombres = int(input("Hombres inscritos: "))
+total = mujeres + hombres
+
+print("Total de inscritos: ", total)
+print("Porcentaje de mujeres: ", round((mujeres / total)* 100, 1), "%", sep="")
+print("Porcentaje de hombres: ", round((hombres / total)* 100, 1), "%", sep="")
