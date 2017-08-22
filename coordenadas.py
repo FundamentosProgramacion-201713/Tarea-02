@@ -11,10 +11,11 @@ X = int(input("Dame las coordenadas en X: "))
 Y = int(input("Dame las coordenadas en Y: "))
 
 angulo = math.atan2(Y,X)
+angulo1 = (angulo*180)/math.pi
 
 magnitud = math.sqrt(X ** 2 + Y ** 2)
 
 # = math.asin(Y/magnitud)
 
-print("Angulo: ", angulo)
+print("Angulo: ", angulo1)
 print("Magnitud: ", magnitud)
