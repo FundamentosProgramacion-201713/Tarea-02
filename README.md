@@ -2,7 +2,7 @@
 
 Tarea 2. Algoritmos
 
-Consulta el documento anexo Tarea_02.docx para ver los detalle
+Consulta el documento anexo Tarea_02.docx para ver los detalles
 
 
 
