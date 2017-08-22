@@ -1,3 +1,9 @@
+#encoding: UTF-8
+
+# Autor: Aaron Tonatiuh Villanueva Guzmán, A01375987
+# Descripcion: A partir de un par de coordenadas, se obtiene el ángulo y la hipotenusa del triángulo resultante.
+
+# A partir de aquí escribe tu programa
 import math
 x=float(input("Ingrese la coordenada X"))
 y=float(input("Ingrese la coordenada Y"))
