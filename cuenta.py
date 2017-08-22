@@ -1,7 +1,15 @@
-#encoding: UTF-8
+#
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Pablo García Morales, A01745530
+# Descripcion: Programa para calcular el valor de la comida con su propina, iva y el total.
 
-# A partir de aquí escribe tu programa
+subtotal= int(input("costo de su comida"))
+
+propina= subtotal*.12
+iva= (subtotal*.16)
+total= (subtotal+propina+iva)
+print(subtotal)
+print(propina)
+print(iva)
+print(total)
 
