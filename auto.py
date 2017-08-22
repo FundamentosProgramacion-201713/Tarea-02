@@ -9,7 +9,6 @@
 
 # A partir de aquí escribe tu programa
 velocidad = input( "¿Cual es la velocidad del auto en kilometros por hora? ")
-type(velocidad)
 velocidad = int(velocidad)
 tiempo=0
 distancia_6=0
