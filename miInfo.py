@@ -9,7 +9,8 @@ nombre_completo = "Angel Guillermo Ortiz Gonzalez"
 matricula = "A01745998"
 carrera = "ISDR"
 prepa = "Tecmilenio Campus Cuautitlan"
-descripcion = 'Me gusta caminar por las tardes. Sé andar en la bicicleta sin manos. Uno de mis libros favoritos es "La insoportable levedad del ser" de Milan Kundera'
+descripcion = 'Me gusta caminar por las tardes. Sé andar en la bicicleta sin manos. ' \
+              'Uno de mis libros favoritos es "La insoportable levedad del ser" de Milan Kundera'
 
 print ("""Nombre: 
 """, nombre_completo, """
