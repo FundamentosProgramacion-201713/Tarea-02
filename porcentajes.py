@@ -1,6 +1,6 @@
 #encoding: UTF-8
 
-# Autor: Javier Pascal FLores A01375925
+# Autor: Javier Pascal Flores A01375925
 # Descripcion:Elabora un algoritmo y escribe un programa que calcula el porcentaje de hombres y mujeres inscritos en una clase.
 #El programa le pregunta al usuario el número de mujeres y el número de hombres inscritos.
 #Imprime:
