@@ -15,3 +15,4 @@ fltTotal = float(intSubtotal) + fltPropina + fltIVA
 print(str("Propina: $" + str(round(fltPropina, 2))))
 print(str("IVA: $" + str(round(fltIVA, 2))))
 print(str("Total a pagar: $" + str(fltTotal)))
+

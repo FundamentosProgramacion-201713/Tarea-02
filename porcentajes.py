@@ -16,3 +16,4 @@ fltPorcentaje_Mujeres = (float(intMujeres) * 100) / float(intTotal)
 print(str("Total de inscritos: " + str(intTotal)))
 print(str("Porcentaje de mujeres: " + str(round(fltPorcentaje_Mujeres, 1)) + "%"))
 print(str("Porcentaje de hombres: " + str(round(fltPorcentaje_Hombres, 1)) + "%"))
+
