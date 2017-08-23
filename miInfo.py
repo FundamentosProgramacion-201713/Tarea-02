@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
 # Autor: DiegoArmandoPerezGonzalez, A01374794
-# Descripcion: El siguiente programa sirve para que el profesor me conozca un poco mas
+# Descripcion: El siguiente programa sirve para que el profesor me conozca un poco mas dandole mis datos personales
 
 print("Nombre:")
 print ("Diego Armando Perez Gonzalez")

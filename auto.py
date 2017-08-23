@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: DiegoArmandoPerezGonzalez, A01374794
+# Descripcion: dando al programa la velocidad del auto en k/m este calcula la distancia que lleva recorrido un coche y el tiempo que le llevara para que llegue a 500km
 
 str_velocidad = input("Velocidad del auto en km/h: ")
 total_velocidad = int(str_velocidad)
