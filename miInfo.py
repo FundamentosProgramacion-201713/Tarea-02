@@ -11,3 +11,4 @@ descrip = "Me gusta lo relacionado a la programación y a la electrónica.\nEn m
 
 
 print("Nombre:\n"+nombre+"\nMatricula:\n"+matricula+"\nCarrera:\n"+carrera+"\nEscuela de procedencia:\n"+escuela+"\nDescripción:\n"+descrip)
+
