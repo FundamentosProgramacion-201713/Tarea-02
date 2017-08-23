@@ -1,7 +1,18 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
-
+# Autor: Irving Fuentes Aguilera, A01745759
+# Descripcion: Programa que calcula el total de la cuenta de una comida.
 # A partir de aquí escribe tu programa
+
+mujeres= int(input("Insertar # de mujeres: "))
+hombres= int(input("Insertar # de hombres: "))
+total= mujeres + hombres
+porcentajemujeres= mujeres * 100 \
+                   / total
+porcentajehombres=  100- porcentajemujeres
+
+print("total: ", total)
+print("% de mujeres: ", porcentajemujeres)
+print("% de hombres: ", porcentajehombres)
+
 
