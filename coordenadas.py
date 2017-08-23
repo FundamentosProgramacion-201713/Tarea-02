@@ -1,7 +1,7 @@
 #encoding: UTF-8
 
 # Autor: DiegoArmandoPerezGonzalez, A01374794
-# Descripcion: estre programa pasa de coordenadas cartesianas a coordenadas polares y te da la magnitud y el angulo
+# Descripcion: este programa pasa de coordenadas cartesianas a coordenadas polares y te da la magnitud y el angulo
 
 x = int(input("x:"))
 y = int(input("y:"))
