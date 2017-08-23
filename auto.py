@@ -18,4 +18,3 @@ fltTiempo_500km = 500 / float(intVelocidad)
 print(str("Distancia recorrida en 6hrs: " + str(intDistancia_6hrs) + " km"))
 print(str("Distancia recorrida en 10hrs: " + str(intDistancia_10hrs) + " km"))
 print(str("Tiempo para recorrer 500 km: " + str(fltTiempo_500km) + " hrs."))
-

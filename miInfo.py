@@ -24,4 +24,3 @@ print("Escuela de procedencia: ")
 print(strgEscuela)
 print("Descripción: ")
 print(strgDescripcion)
-
