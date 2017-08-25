@@ -3,7 +3,7 @@
 # Autor: Dora Gabriela Lizarraga Gonzalez, A01229599
 # Descripcion: En este progarma escribire mis datos.
 
-# A partir de aquí escribe tu programa
+# A partir de aquí escribe tu programa completo
 
 print('Nombre:')
 print('Dora Gabriela Lizarraga Gonzalez')
