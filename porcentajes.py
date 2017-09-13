@@ -1,7 +1,13 @@
-#encoding: UTF-8
+# encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Andrea Montero Rivas, A01374496
+# Descripcion: problema 4, porcentaje alumnos
 
-# A partir de aquí escribe tu programa
-
+mujeres = (int(input("Cuantas mujeres hay inscritas", )))
+hombres = (int(input("Cuantos hombres hay inscritos", )))
+total = mujeres + hombres
+print(total)
+p_mujeres = (mujeres * 100) / total
+p_hombres = (hombres * 100) / total
+print(p_mujeres)
+print(p_hombres)

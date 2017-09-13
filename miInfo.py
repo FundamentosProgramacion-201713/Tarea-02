@@ -1,8 +1,14 @@
 #encoding: UTF-8
 
-# Autor: tuNombreCompleto, tuMatricula
-# Descripcion: Texto que describe en pocas palabras el problema que estás resolviendo.
+# Autor: Andrea Montero Rivas, A01374496
+# Descripcion: Problema 1, mi informacion
 
-# A partir de aquí escribe tu programa
 
-print("Hola")   # borrar
+
+print("nombre: Andrea Montero Rivas")
+print("matricula: A01374496")
+print("carrera: ISDR")
+print("Prepa: CET")
+print("""descripcion:
+       Me gustan los deportes, actualmente practico lima lama
+       Me gusta la robotica""")
